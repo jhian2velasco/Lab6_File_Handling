@@ -1,0 +1,5 @@
+Student: Velasco
+Student ID: TUPM-26-1934
+Seed: 4
+ID Sum: 25
+Verification Value: 179

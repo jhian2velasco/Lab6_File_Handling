@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Velasco
+Student ID: TUPM-26-1934
+Seed Digit: 4
+ID Sum: 25
+Verification Value: 179
+Dataset Sample Size: 75
+Valid Records: 75
+Average Global Active Power: 4.040
+JSON File: Velasco_TUPM-26-1934_record.json
+Backup File: Velasco_TUPM-26-1934_record.csv
