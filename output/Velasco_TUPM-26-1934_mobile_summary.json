@@ -1,0 +1,16 @@
+{
+    "last_name": "Velasco",
+    "student_id": "TUPM-26-1934",
+    "seed_digit": 4,
+    "target_operating_system": "Android",
+    "target_behavior_class": 2,
+    "total_records": 700,
+    "records_matching_os": 554,
+    "invalid_records": 0,
+    "records_in_target_class": 114,
+    "average_battery_drain_mah_per_day": 887.114,
+    "average_data_usage_mb_per_day": 451.439,
+    "exported_row_count": 114,
+    "count_verified": true,
+    "note": ""
+}

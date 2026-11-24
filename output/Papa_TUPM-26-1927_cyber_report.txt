@@ -1,0 +1,31 @@
+CYBERSECURITY INCIDENT REPORT
+-----------------------------
+Last Name: Papa
+Student ID: TUPM-26-1927
+Target Year: 2022
+Total Records in Dataset: 3000
+Invalid Records Skipped: 0
+Incidents in Target Year: 318
+
+Incidents per Attack Type:
+  DDoS: 54
+  Malware: 64
+  Man-in-the-Middle: 41
+  Phishing: 57
+  Ransomware: 56
+  SQL Injection: 46
+
+Total Financial Loss (USD millions): 15870.86
+Average Financial Loss (USD millions): 49.91
+
+Five Costliest Incidents:
+  1. Phishing | 98.47M | Japan | Banking
+  2. SQL Injection | 98.46M | USA | Government
+  3. Phishing | 98.06M | Brazil | Banking
+  4. Phishing | 97.56M | UK | Government
+  5. Malware | 97.32M | Japan | Education
+
+Output Files:
+  Filtered CSV: Papa_TUPM-26-1927_cyber_filtered.csv
+  JSON Summary: Papa_TUPM-26-1927_cyber_summary.json
+  Backup: Papa_TUPM-26-1927_cyber_summary.json (verified: True)

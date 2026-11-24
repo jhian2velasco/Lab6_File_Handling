@@ -1,0 +1,40 @@
+{
+    "last_name": "Velasco",
+    "student_id": "TUPM-26-1934",
+    "seed_digit": 4,
+    "id_sum": 25,
+    "records_processed": 1025,
+    "invalid_records": 0,
+    "target_status_class": "2xx",
+    "records_in_target_class": 855,
+    "count_per_status_code": {
+        "200": 847,
+        "206": 8,
+        "302": 144,
+        "304": 21,
+        "404": 5
+    },
+    "five_most_requested_urls": [
+        {
+            "url": "/login.php",
+            "count": 106
+        },
+        {
+            "url": "/home.php",
+            "count": 91
+        },
+        {
+            "url": "/css/normalize.css",
+            "count": 39
+        },
+        {
+            "url": "/css/bootstrap.min.css",
+            "count": 38
+        },
+        {
+            "url": "/css/font-awesome.min.css",
+            "count": 37
+        }
+    ],
+    "note": ""
+}
